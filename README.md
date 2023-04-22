@@ -98,3 +98,8 @@ You are required to submit the following for review:
 
 - - -
 © 2022 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
+
+
+
+Deployed Site: file:///Users/stefaniefisher/crispy-octo-meme/Develop/index.html
+My github: https://github.com/stevierae/Planner
